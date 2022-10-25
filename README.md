@@ -2,4 +2,4 @@
 
 Some Description!.
 
-*Bold Example*
+**Bold Example**
